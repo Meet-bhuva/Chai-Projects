@@ -27,6 +27,7 @@ span {
     border: 3px solid black;
     margin: 10px;
     display: inline-block;
+    cursor: pointer;
 }
 
 h2 {
